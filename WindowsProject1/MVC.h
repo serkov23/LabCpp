@@ -2,6 +2,7 @@
 #include "KDeque.h"
 #include "Avereger.h"
 #include "stream.h"
+#include "resource.h"
 
 class View {
 	KOstream out;

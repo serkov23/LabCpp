@@ -21,7 +21,7 @@ public:
 		visit((double)val.size());
 	}
 
-	void visit(const Person& val) {
+	void visit(const Base_element& val) {
 		visit((int)val);
 	}
 
